@@ -643,7 +643,7 @@
 	</dependencyManagement> 
 
 	<build>
-		<finalName>afd_parent</finalName>
+		<finalName>hhf_parent</finalName>
 		<pluginManagement>
 			<plugins>
 
